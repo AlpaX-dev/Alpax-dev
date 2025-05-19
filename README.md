@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge Miravete Parra (también conocido como Alpax)
 
-<!--
-**AlpaX-dev/Alpax-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desarrollador de Aplicaciones Web en formación** | 🎮 **Creador de Contenido** | ⚽ **Futbolista**
 
-Here are some ideas to get you started:
+Actualmente estoy cursando 1º de DAW, donde estoy aprendiendo a desarrollar aplicaciones modernas, desde el diseño hasta el backend. Combino mi formación técnica con mi pasión por el crecimiento personal y la creación de contenido digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Lenguajes que he estudiado
+
+- HTML5, CSS3
+- JavaScript
+- Java
+- XML, XSD, XSLT, XQuery
+- SQL
+- Shell Script (bash)
+
+---
+
+## 💻 Tecnologías y herramientas
+
+- Visual Studio Code, Eclipse, VirtualBox  
+- Git & GitHub  
+- MySQL Workbench  
+- Adobe Premiere Pro (edición de vídeo)  
+- Adobe After Effects (nivel básico)   
+- Gestión de redes sociales: TikTok, Instagram, YouTube
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 📧 Correo: [jorge080800@gmail.com.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/TU_LINKEDIN]
+- 🐦 Twitter: [https://twitter.com/TU_TWITTER]
+- 🎥 TikTok: [https://www.tiktok.com/@alpaxtw]
+
+---
+
+## 🚀 Un poco más sobre mí
+
+🧠 Apasionado del desarrollo y el autoaprendizaje  
+🎯 Buscando siempre nuevas metas que me reten  
+🎬 Me encanta crear contenido que aporte valor  
+📹 Experiencia editando y publicando contenido en redes  
+👟 Y en mi tiempo libre, me verás en el campo de fútbol
+
+---
+
+> ✨ *"La programación es una forma de crear el futuro, y yo estoy escribiendo el mío línea a línea."*
+
