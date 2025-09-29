@@ -28,12 +28,6 @@ Actualmente estoy cursando 2º de DAW, donde estoy aprendiendo a desarrollar apl
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
----
-
 ## 📫 ¿Cómo contactarme?
 
 - 📧 Correo: [jorge080800@gmail.com.com]
