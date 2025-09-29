@@ -2,7 +2,7 @@
 
 🎯 **Desarrollador de Aplicaciones Web en formación** | 🎮 **Creador de Contenido** | ⚽ **Futbolista**
 
-Actualmente estoy cursando 1º de DAW, donde estoy aprendiendo a desarrollar aplicaciones modernas, desde el diseño hasta el backend. Combino mi formación técnica con mi pasión por el crecimiento personal y la creación de contenido digital.
+Actualmente estoy cursando 2º de DAW, donde estoy aprendiendo a desarrollar aplicaciones modernas, desde el diseño hasta el backend. Combino mi formación técnica con mi pasión por el crecimiento personal y la creación de contenido digital.
 
 ---
 
@@ -37,9 +37,6 @@ Actualmente estoy cursando 1º de DAW, donde estoy aprendiendo a desarrollar apl
 ## 📫 ¿Cómo contactarme?
 
 - 📧 Correo: [jorge080800@gmail.com.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/TU_LINKEDIN]
-- 🐦 Twitter: [https://twitter.com/TU_TWITTER]
-- 🎥 TikTok: [https://www.tiktok.com/@alpaxtw]
 
 ---
 
